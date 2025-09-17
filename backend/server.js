@@ -36,7 +36,7 @@ const surveySchema = new mongoose.Schema({
   email: { type: String, required: true },
   year: { type: String, required: true },
   department: { type: String, required: true },
-  program: { type: String, required: true },
+  program: { type: String },
   accommodation: String,
   
   // Academic Resources
