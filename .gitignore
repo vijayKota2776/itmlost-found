@@ -67,3 +67,7 @@ node_modules/
 
 # dataconnect generated files
 .dataconnect
+
+
+campus-survey.surveys.json
+cohort_data 5.00.01 AM.json
